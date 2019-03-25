@@ -23,4 +23,16 @@ $('document').ready(function(){
 	$('.btn-success').click(function(){
 		alert('Функция ещё не работает. Повторите попытку позже')
 	});
+	$('#telegram').click(function(){
+		window.open('https://t.me/joinchat/JTV1sRdo7155sAfkaBWaWw');
+	});
+	$('#vk').click(function(){
+		window.open('https://vk.com/id178205482');
+	});
+	$('#facebook').click(function(){
+		window.open('https://www.facebook.com/doskovol');
+	});
+	$('#instagram').click(function(){
+		window.open('https://www.instagram.com/vovados.js/?hl=ru');
+	});
 });

@@ -8,3 +8,15 @@ body{
 html{
   scroll-behavior: smooth;
 }
+#telegram:hover{
+	cursor: pointer;
+}
+#instagram:hover{
+	cursor: pointer;
+}
+#facebook:hover{
+	cursor: pointer;
+}
+#vk:hover{
+	cursor: pointer;
+}
