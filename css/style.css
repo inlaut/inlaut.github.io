@@ -3,5 +3,8 @@
 }
 body{
 	background-color: #000000;
-	height: 1700px;
+	height: 2800px;
+}
+html{
+  scroll-behavior: smooth;
 }
